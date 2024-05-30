@@ -16,4 +16,4 @@ The code implements different operating system components, such as File System, 
 - all files in apps folder
 - xsh_hello.c, xsh_prodcons.c, xsh_run.c in shell folder
 - future.c, fs.c, ufu.c in system folder
-- support file in include folder
+- support files in include folder
